@@ -2,5 +2,5 @@
 - 👀 I’m interested in full stack development, graphic and fashion design, art, yoga & ceramics. 
 - 🌱 I’m currently learning ux/ui design at Nuclio Digital School
 - 💞️ I’m looking to collaborate with other ux/ui designers, developers and other content creators
-- 📫 How to reach me IG: @ayalga.estudio or LinkedIn www.linkedin.com/in/sara-vázquez
+- 📫 How to reach me IG: @ayalga.estudio or LinkedIn https://www.linkedin.com/in/saravazquezlopez/
 - 😄 Pronouns: she/her
