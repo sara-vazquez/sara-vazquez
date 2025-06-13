@@ -1,4 +1,4 @@
-## UX/UI Designer and Coding student 🎨 🖥
+## UX/UI Designer and full stack web developer student 🎨 🖥
 
 - 👋 Hi, I’m @sara-vazquez
 - 👀 I’m a design enthusiast interested in art, reading, yoga & ceramics. 
