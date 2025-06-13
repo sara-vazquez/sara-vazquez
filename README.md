@@ -1,7 +1,6 @@
 # Hi there, I'm Sara! 👋🏼
 ## UX/UI Designer and Full Stack Web Developer student 🎨🖥
 
-
 ### About me
 - 👀 I’m a design enthusiast interested in art, reading, yoga & ceramics. 
 - 🌱 I’m a UX/UI and graphic designer, currently learning full stack development at "Factoria F5".
@@ -18,6 +17,6 @@
 <details>
   <summary>Bonus</summary>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZldGdvYXN2dHloOGYwOXI0bWR4eHBjb2kwY3FwNG5mbWsxcWIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/js7SMV0KJrsSl9YbG7/giphy.gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI4YmV3dXNvMTdhbDNjcHR1MzAyYXQ0czdlMzB6ZWVyajFjejFsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwAZ6dvvvaTtdI8SD5/giphy.gif">
 </p>
 </details>
