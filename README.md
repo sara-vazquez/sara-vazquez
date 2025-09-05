@@ -10,6 +10,7 @@
 
 ## 🚀 Tech stack
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg"> <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg
+"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg
 "> <img src ="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg"> 
 
 
