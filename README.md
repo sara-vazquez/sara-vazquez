@@ -1,8 +1,8 @@
 # Hi there, I'm Sara! 👋🏼
-## UX/UI Designer and Full Stack Web Developer student 🎨🖥
+## UX/UI Designer and Frontend UX 🎨 🖥
 
 ### About me
-- 👀 I’m a design enthusiast interested in art, reading, yoga & ceramics. 
+- 👀 I’m a design enthusiast and curious frontend ux developer. 
 - 🌱 I’m a UX/UI and graphic designer, currently learning full stack development at "Factoria F5".
 - 🌞 I’m looking to collaborate with other ux/ui designers, developers and other content creators
 - 📫 How to reach me: @ayalga.estudio or [LinkedIn](https://www.linkedin.com/in/saravazquezlopez/)
